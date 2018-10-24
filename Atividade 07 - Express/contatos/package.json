@@ -1,0 +1,21 @@
+{
+  "name": "contatos",
+  "version": "1.0.0",
+  "description": "Trabalho de Web utilizando NodeJS e Express - UFC",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.8.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "NodeJS",
+    "Express",
+    "Jesus"
+  ],
+  "author": "Yuri Cavalcante Amancio",
+  "license": "ISC"
+}
